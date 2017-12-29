@@ -1,5 +1,7 @@
 # Technical Assessment
-Was invited to do a technical assessment at a tech company I applied to. 
+I was invited to do a technical assessment at a tech company I applied to. The challenge requirements were sent via plain text email body (shown below in this readme, NOTE: I did some formatting to make it display nicely in markdown). 
+
+The requirements were pretty open-ended (ie no particular format required). I used Jupytern Notebook [donoghuc_technical_challenge.ipynb](donoghuc_technical_challenge.ipynb) to build out an HTML document with SQL solutions and some javascript to toggle on/off underlying python code. The jupyter notebook will render in github viewer. I submitted [donoghuc_technical_challenge.html](donoghuc_technical_challenge.html) via email 24hrs after recieving requirements. 
 
 ### assessment questions (provided in body of email)
 Below are a series of questions for you to review and complete.  The purpose of this evaluation is to get a baseline understanding of what kind of experience you’ve had with SQL and relational databases.  There are no tricks here—and if you can’t do a problem, don’t worry!  Just take a stab at it (we care about how you choose to approach a problem). Definitely look up anything you want online.  We recommend taking roughly an hour to work through these, although there is no time limit.
