@@ -1,11 +1,5 @@
-# puppet_technical_assessment
-
-I applied to a position posted on Puppet website for Database Analyst. This repository has my solution for the technical assessment detailed below. I submitted the donoghuc_technical_challenge_.html file within 24 hours of recieving challenge. 
-
-## Note:
-Did not get interview :(
-
-*I do have the unfortunate task of letting you know we are choosing to move forward with other candidates at this time. We had a lot of great talent apply, so it was a hard task of narrowing it down to a few folks who ultimately had a little more alignment in the role. Ultimately, we felt that given your level of experience and interest in data science, this position would not provide the level of challenge or data science scope you're ideally looking for. With that being said, you're a very strong candidate and we'd love to keep you in mind for future opportunities that are more aligned with your skill level and interests.*
+# Technical Assessment
+Was invited to do a technical assessment at a tech company I applied to. 
 
 ### assessment questions (provided in body of email)
 Below are a series of questions for you to review and complete.  The purpose of this evaluation is to get a baseline understanding of what kind of experience you’ve had with SQL and relational databases.  There are no tricks here—and if you can’t do a problem, don’t worry!  Just take a stab at it (we care about how you choose to approach a problem). Definitely look up anything you want online.  We recommend taking roughly an hour to work through these, although there is no time limit.
@@ -155,8 +149,3 @@ GROUP BY
 2. Given the information available in the query, what does zendesk.tickets and the new table that results from this query look like? Describe the schema or diagram the tables below.
 3. What, if anything, is odd about this query?
 
-If you have any questions, feel free to reach out to #####@puppet.com.  Generally, any assumption you need to make about the data is fine, so long as it is called out in your document.
-
-Please email your finalized assessment to ######@puppet.com.  A hiring team member will review your work, and we'll be sure to follow up with you within a couple business days after submission to touch base on next steps. 
-
-Thanks!
